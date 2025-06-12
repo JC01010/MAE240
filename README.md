@@ -50,7 +50,7 @@
             <table>
             <tr>
                 <td><b><a href='https://github.com/JC01010/MAE240/blob/master/averageanalysis.m'>averageanalysis.m</a></b></td>
-                <td><code>❯ REPLACE-ME</code></td>
+                <td><code>Performs averaged analysis of the orbital motion under solar radiation pressure effects.</code></td>
             </tr>
             </table>
         </blockquote>
